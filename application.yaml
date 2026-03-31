@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/RajeshRaoBN/argocodebase/argo_proj_1.git
+    repoURL: https://github.com/RajeshRaoBN/argocodebase.git
     targetRevision: HEAD
     path: dev
   destination: 
